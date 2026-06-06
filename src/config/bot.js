@@ -156,9 +156,9 @@ export const botConfig = {
   economy: {
     currency: {
       // Currency display name.
-      name: "coins",
+      name: "lelycoins",
       // Plural display name.
-      namePlural: "coins",
+      namePlural: "lelycoins",
       // Currency symbol shown in balances.
       symbol: "$",
     },
